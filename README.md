@@ -19,7 +19,7 @@
   
  🌱 I am currently pursuing a degree in Computer Science.
 
- 🔭 I currently worked on ** .Net Framework and Hands on experience in Full Stack**
+ 🔭 I worked on ** .Net Framework and Hands on experience in Full Stack**
 
  💬 Ask me about **  Microsoft .Net framework, Full Stack Development, Python**
 
