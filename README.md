@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here!;" />
 </h1>
 
-<h1 align="center">Namaste 👋, I'm Joshua Thadi</h1>
+<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 <h3 align="center">Began the Journey with Software Development in ASP.NET MVC</h3>
 
  <h1>💫 About Me</h1>
