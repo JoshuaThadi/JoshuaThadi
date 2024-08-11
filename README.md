@@ -27,21 +27,14 @@
 </div>
 
  <div align="center"> 
-  <a href="mailto:thadijoshua@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a> 
-  
-  <a href="https://www.linkedin.com/in/joshua-thadi-77031b277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
-  
-  <a href="https://joshuathadi.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+  <a href="mailto:thadijoshua@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/joshua-thadi-77031b277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+  <a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+
 </div>
 
 
-<h5 align="left">Connect with me:</h5>
+<h5 align="left">📫 Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/joshua-thadi-77031b277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joshua-thadi-77031b277" height="30" width="40" /></a>
 </p>
@@ -60,7 +53,7 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql,dotnet,cpp,cs,vim,java" /><br>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
 
 <div align=center>
  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JoshuaThadi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -70,6 +63,31 @@
 
 </div>
 
+<div align="center">
+  <h1>💻 Tech Stack:</h1>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=JoshuaThadi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
+  
+  <h3>🔝 Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit!;" />
 </h1>
+
