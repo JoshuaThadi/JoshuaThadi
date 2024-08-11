@@ -81,7 +81,7 @@
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
   
-  <h3>🔝 Top Contributed Repo</h3>
+  <h3>⭐ Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
