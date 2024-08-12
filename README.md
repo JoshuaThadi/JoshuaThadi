@@ -56,10 +56,11 @@
 </div>
 
 <h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
-
+<br>
 <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
+ <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
@@ -78,11 +79,14 @@
   <h2>🏆 GitHub Trophies</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=JoshuaThadi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
-  
-  <h3>⭐ Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+
+  <div align="center"> 
+      <h3 align="right" >✍️ Random Dev Quote</h3>
+      <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
+      <h3 align="left">⭐ Top Contributed Repo</h3>
+      <img align="left" src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  </div>
+
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
