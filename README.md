@@ -81,10 +81,10 @@
 
 
   <div align="center"> 
-      <h3 align="right" >✍️ Random Dev Quote</h3>
-      <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
-      <h3 align="left">⭐ Top Contributed Repo</h3>
-      <img align="left" src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+       <h3>⭐ Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+      <h3>✍️ Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
   </div>
 
 
