@@ -1,5 +1,5 @@
 <!-- MasterHead -->
-[![MasterHead]([https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif](https://github.com/JoshuaThadi/JoshuaThadi/blob/main/the%20git%20pfp.gif))](https://JoshuaThadi.io)
+[![MasterHead](https://github.com/JoshuaThadi/JoshuaThadi/blob/main/the%20git%20pfp.gif)](https://JoshuaThadi.io)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here!;" />
