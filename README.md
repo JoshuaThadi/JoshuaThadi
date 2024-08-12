@@ -37,11 +37,14 @@
 -->
 </div>
 
+<br/>
 
 <h5 align="center">📫 Connect with me:</h5>
 <p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/joshua-thadi-77031b277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joshua-thadi-77031b277" height="30" width="40" /></a>
 </p>
+
+<br/>
 
 <div>
   <p>
@@ -57,19 +60,31 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,mysql,dotnet,cpp,cs,vim,java" /><br>
 </div>
 
+<br/>
+<div>
+     <p>
+          <br/>
+     </p>
+</div>
+
 <h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=rose_pine&hide_border=false" alt="GitHub Streak" style="width:440px"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:300px"/>
-
 </div>
 
+<br/>
+<div>
+     <p>
+          <br/>
+     </p>
 </div>
 
 <div align="center">
   <h2>💻 Tech Stack:</h2>
+     <br/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" href="https://dotnet.microsoft.com/en-us/languages/csharp"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -79,15 +94,42 @@
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+     <br/>
+     <div>
+          <p>
+               <br/>
+          </p>
+     </div>
   
 
   <div align="center"> 
     <h2>🏆 GitHub Trophies</h2>
+       <br/>
       <img src="https://github-profile-trophy.vercel.app/?username=JoshuaThadi&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+       <br/>
+         <div>
+       <p>
+            <br/>
+       </p>
+  </div>
     <h2>⭐ Top Contributed Repo</h2>
+       <br/>
       <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+       <br/>
+         <div>
+       <p>
+            <br/>
+       </p>
+  </div>
     <h2>✍️ Random Dev Quote</h2>
+       <br/>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+       <br/>
+         <div>
+       <p>
+            <br/>
+       </p>
+  </div>
   </div>
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
