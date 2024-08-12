@@ -103,14 +103,6 @@
   
 
   <div align="center"> 
-  <h2>🏆 GitHub Trophies</h2>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=JoshuaThadi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-<br/>
-         <div>
-       <p>
-            <br/>
-       </p>
   </div>
     <h2>⭐ Top Contributed Repo</h2>
        <br/>
@@ -134,6 +126,6 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=&size=35Righteous&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1>
 
