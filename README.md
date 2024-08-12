@@ -57,11 +57,13 @@
 
 <h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
 <br>
-<div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-    <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="440px" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="400px" />
+</div>
+
 </div>
 
 <div align="center">
