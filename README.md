@@ -4,8 +4,7 @@
 </a>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here+🔥+!;" 
-     style="font-weight: 800; color: navyblue;" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here+🔥+!;"  alt="Typing Animation" />
 
 </h1>
 
@@ -117,7 +116,7 @@
   </div>
     <h2>✍️ Random Dev Quote</h2>
        <br/>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="width:auto"/>
        <br/>
          <div>
        <p>
