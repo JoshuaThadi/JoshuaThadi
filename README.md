@@ -2,7 +2,7 @@
 [![MasterHead](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)](https://JoshuaThadi.io)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here+🔥+!;" 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here+🔥+!;" 
      style="font-weight: 800; color: navyblue;" alt="Typing Animation" />
 
 </h1>
