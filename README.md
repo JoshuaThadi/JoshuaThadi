@@ -58,10 +58,10 @@
 <h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="440px" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=rose_pine&hide_border=false" alt="GitHub Streak" style="width:440px"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:300px"/>
+
 </div>
 
 </div>
@@ -80,13 +80,13 @@
   
 
   <div align="center"> 
+    <h2>🏆 GitHub Trophies</h2>
+      <img src="https://github-profile-trophy.vercel.app/?username=JoshuaThadi&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
     <h2>⭐ Top Contributed Repo</h2>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     <h2>✍️ Random Dev Quote</h2>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   </div>
-
-
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 
@@ -94,3 +94,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit!;" />
 </h1>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
