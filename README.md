@@ -1,6 +1,6 @@
 <!-- MasterHead -->
 <a href="https://JoshuaThadi.io" style="display: block;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/japan_gif_grayscale.gif" alt="MasterHead" style="width: 1200px; height: 500px; display: block;" />
+    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/the%20git%20pfp.gif" style="width: auto; height: auto; display: block;" />
 </a>
 
 
