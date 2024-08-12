@@ -19,7 +19,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div align="left">
+<div align="center">
   
  🌱 I am currently pursuing a degree in Computer Science.
 
