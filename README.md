@@ -76,14 +76,11 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=JoshuaThadi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
 
   <div align="center"> 
-       <h3>⭐ Top Contributed Repo</h3>
+    <h2>⭐ Top Contributed Repo</h2>
       <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-      <h3>✍️ Random Dev Quote</h3>
+    <h2>✍️ Random Dev Quote</h2>
       <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
   </div>
 
