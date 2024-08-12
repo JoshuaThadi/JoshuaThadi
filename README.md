@@ -1,5 +1,7 @@
 <!-- MasterHead -->
-[![MasterHead](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)](https://JoshuaThadi.io)
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif">
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif" alt="Fallout GIF" style="width:1000px; height:400px"/>
+</a>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here+🔥+!;" 
