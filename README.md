@@ -2,11 +2,13 @@
 [![MasterHead](https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif)](https://JoshuaThadi.io)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here!;" 
+     style="font-weight: 800; color: navyblue;" alt="Typing Animation" />
+
 </h1>
 
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
-<h3 align="center">Began the Journey with Software Development in ASP.NET MVC</h3>
+<h3 align="center">🌟 Began the Journey with Software Development in ASP.NET MVC</h3>
 
  <h1>💫 About Me</h1>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
