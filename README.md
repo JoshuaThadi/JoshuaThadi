@@ -40,7 +40,7 @@
 
 <h5 align="center">📫 Connect with me:</h5>
 <p align="center">
-<a href="https://linkedin.com/in/linkedin.com/in/joshua-thadi-77031b277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joshua-thadi-77031b277" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/joshua-thadi-77031b277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joshuathadi" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">📚 Languages & tools I Have placed My Hands On 📚</h2>
