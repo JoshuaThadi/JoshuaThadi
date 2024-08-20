@@ -10,7 +10,7 @@
 
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 <h3 align="center">🌟 Began the Journey with Software Development in ASP.NET MVC 🌠</h3>
-<h4 align="center">🌜 I work on Front-end development and web designing when i am Bored <br/> while focusing on Data Science and AI/ML 🌛</h4>
+<h4 align="center">🌜 I work on Front-end development and web designing when i am Bored 🌛<br/> while focusing on Data Science and AI/ML </h4>
 
 
  <h1>💫 About Me</h1>
