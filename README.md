@@ -10,7 +10,8 @@
 
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 <h3 align="center">🌟 Began the Journey with Software Development in ASP.NET MVC 🌠</h3>
-<h3 align="center">🌜 I work on Front-end development and web designing when i am Bored <br/> while focusing on Data Science and AI/ML 🌛</h3>
+<h4 align="center">🌜 I work on Front-end development and web designing when i am Bored <br/> while focusing on Data Science and AI/ML 🌛</h4>
+
 
  <h1>💫 About Me</h1>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
@@ -29,6 +30,8 @@
  💬 Ask me about **  Microsoft .Net framework, Full Stack Development, Python**
 
  ⚡ Interest in ** Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation**
+
+ ✨ I only like perfection.
 
 </div>
 
