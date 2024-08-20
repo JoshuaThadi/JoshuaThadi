@@ -98,6 +98,15 @@
   </div>
 </div>
 
+<h1 align="center">Support Me 💰</h1>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/joshuathadi">
+    <img width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1>
