@@ -25,11 +25,11 @@
   
  🌱 I am currently pursuing a degree in Computer Science.
 
- 🔭 I worked on ** .Net Framework and Hands on experience in Full Stack**
+ 🔭 I worked on .Net Framework and Hands on experience in Full Stack.
 
- 💬 Ask me about **  Microsoft .Net framework, Full Stack Development, Python**
+ 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.
 
- ⚡ Interest in ** Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation**
+ ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation
 
  ✨ I only like perfection.
 
