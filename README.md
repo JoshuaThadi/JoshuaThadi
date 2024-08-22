@@ -19,9 +19,9 @@
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="180px" src="https://visitcount.itsvg.in/api?id=JoshuaThadi&icon=2&color=6" alt="Visitor Count" /></a> </p>
 
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<div align="center">
+<div align="left">
   
  🌱 I am currently pursuing a degree in Computer Science.
 
@@ -35,7 +35,7 @@
 
 </div>
 
- <div align="center"> 
+ <div align="left"> 
   <a href="mailto:thadijoshua@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
   <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
