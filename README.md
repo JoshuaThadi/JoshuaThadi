@@ -23,15 +23,15 @@
 
 <div align="left">
   
- 🌱 I am currently pursuing a degree in Computer Science.
+<h4> 🌱 I am currently pursuing a degree in Computer Science.</h4>
 
- 🔭 I worked on .Net Framework and Hands on experience in Full Stack.
+<h4> 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</h4>
 
- 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.
+<h4> 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</h4>
 
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation
+<h4> ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation</h4>
 
- ✨ I only like perfection.
+<h4> ✨ I only like perfection.</h4>
 
 </div>
 <br/>
@@ -46,12 +46,12 @@
 -->
 </div>
 
-<h5 align="center">📫 Connect with me:</h5>
+<h4 align="center">📫 Connect with me:</h4>
 <p align="center">
 <a href="https://www.linkedin.com/in/joshuathadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/joshuathadi" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">📚 Languages & tools I Have placed My Hands On 📚</h2>
+<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
 
 <br/>
 <div align="center">
@@ -61,7 +61,7 @@
 
 <br/>
 
-<h2 align="center">⚡ 📊 GitHub Stats ⚡</h2>
+<h2 align="center">⚡ 📊 GitHub Stats </h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:400px"/>
