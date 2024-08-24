@@ -55,9 +55,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,dotnet,cpp,cs,vim,java,htmx" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,debian,neovim,atom,pwsh"/><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm,c,bash,kali,arch,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,mysql,dotnet,cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
 <br/>
