@@ -3,14 +3,14 @@
   <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout1 (11).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
-<h1 align="center">
+<h1 align="left">
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>
 
 </h1>
 
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
-<h3 align="center">🌟 Began the Journey with Software Development in ASP.NET MVC 🌠</h3>
-<h4 align="center">🌜 I work on Front-end development and web designing when i am Bored 🌛<br/> while focusing on Data Science and AI/ML </h4>
+<h1 align="left">Namaste 🙏 I'm Joshua Thadi</h1>
+<h3 align="left">🌟 Began the Journey with Software Development in ASP.NET MVC 🌠</h3>
+<h4 align="left">🌜 I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML 🌛</h4>
 
 
  <h1>💫 About Me</h1>
