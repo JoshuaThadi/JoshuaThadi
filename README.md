@@ -86,19 +86,11 @@
 
   <div align="center"> 
   </div>
-    <h2>⭐ Top Contributed Repo</h2>
+    <h2>⭐ Top Contributed Repo &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✍️ Random Dev Quote</h2>
        <br/>
       <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+       <img width="250px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" style="width:auto"/>
        <br/>
-    <h2>✍️ Random Dev Quote</h2>
-       <br/>
-      <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" style="width:auto"/>
-       <br/>
-         <div>
-       <p>
-            <br/>
-       </p>
-  </div>
   </div>
 </div>
 
