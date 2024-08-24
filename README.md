@@ -114,3 +114,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1>
+
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/night-gif_flattened.gif">
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/night-gif_flattened.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
