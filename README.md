@@ -10,7 +10,7 @@
 
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 
- <h1>💫 About Me</h1>
+ <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="180px" src="https://visitcount.itsvg.in/api?id=JoshuaThadi&icon=2&color=6" alt="Visitor Count" /></a> </p>
