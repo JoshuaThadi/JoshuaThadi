@@ -9,7 +9,7 @@
 </h1>
 
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
-<h4 align="left">I Succesfully executed "Hello World!" program when I was 18. Began the Journey when I was 19 in Software Development in ASP.NET MVC, I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. To make Money-. </h4>
+<h4 align="left">I Succesfully executed "Hello World!" program when I was 18. Began the Journey when I was 19 in Software Development in ASP.NET MVC, I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. Simply To make Money 💸. </h4>
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
