@@ -9,6 +9,8 @@
 </h1>
 
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
+<h3 align="left">🌟 Began the Journey with Software Development in ASP.NET MVC </h3>
+<h4 align="left">🌜 I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML </h4>
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
@@ -19,10 +21,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align="left">
-
-<h3 align="left">🌟 Began the Journey with Software Development in ASP.NET MVC </h3>
- 
-<h4 align="left">🌜 I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML </h4>
   
 <h4> 🌱 I am currently pursuing a degree in Computer Science.</h4>
 
