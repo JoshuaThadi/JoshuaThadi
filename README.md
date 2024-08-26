@@ -9,7 +9,7 @@
 </h1>
 
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
-<h4 align="center">Began the Journey with Software Development in ASP.NET MVC, I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML </h4>
+<h4 align="left">I Succesfully ececuted Hello World! program when i was 18. Began the Journey with Software Development in ASP.NET MVC, I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. To make Money-. </h4>
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
@@ -21,14 +21,7 @@
 
 <div align="left">
   
-<h4> 🌱 I am currently pursuing a degree in Computer Science.</h4>
-
-<h4> 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</h4>
-
-<h4> 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</h4>
-
-<h4> ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation</h4>
-
+<h4> 🌱 I am currently pursuing a degree in Computer Science. 🔭 I worked on .Net Framework and Hands on experience in Full Stack. 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python. ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation</h4>
 <h4> ✨ I only like perfection. <div align="right"> 
   <h3>🌟 Follow Me on:</h3>
   
