@@ -1,4 +1,3 @@
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif">
   <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout1 (11).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
@@ -8,7 +7,7 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>
 
 </h1>
-
+<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 
 <h4 align="left">I Succesfully executed "Hello World!" program when I was 18. Began the Journey when I was 19 in Software Development in ASP.NET MVC, I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. Simply To make Money 💸. </h4>
 
