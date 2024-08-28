@@ -97,7 +97,7 @@
   </div>
 </div>
 
-<h1 align="center">Support Me 💰 </h1>
+<h2 align="center">Support Me 💰 </h2>
 
 <p align="center">
   <a href="https://buymeacoffee.com/joshuathadi">
