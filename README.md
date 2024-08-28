@@ -49,8 +49,8 @@
 <h2 align="center">⚡ 📊 GitHub Stats </h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=rose_pine&hide_border=false" alt="GitHub Streak" style="width:440px"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:365px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=rose_pine&hide_border=false" alt="GitHub Streak" style="width:400px"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:300px"/>
 </div>
 
