@@ -21,7 +21,7 @@
 
 <div align="left">
   
-<h4> 🌱 I am currently pursuing a degree in Computer Science. 🔭 I worked on .Net Framework and Hands on experience in Full Stack. 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python. ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation</h4>
+<h4> 🌱 I am currently working on and developing my programming skills. 🔭 I worked on .Net Framework and Hands on experience in Full Stack. 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python. ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation</h4>
 <h4> ✨ I only like perfection. <div align="right"> 
   <h3>🌟 Follow Me on:</h3>
   
