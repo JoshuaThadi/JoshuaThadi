@@ -54,7 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:300px"/>
 </div>
 
-
 <div align="center">
   <h2>💻 Tech Stack:</h2>
      <br/>
