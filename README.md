@@ -48,9 +48,9 @@
 
 <div align="center">
     <h2>📊 GitHub Stats </h2>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=shadow_blue&hide_border=true" alt="GitHub Streak Stats"><br/>
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=transparent&hide_border=true" alt="GitHub Streak Stats"><br/>
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <div align="center">
@@ -89,7 +89,7 @@
   </div>
     <h2>⭐ Top Contributed Repo!</h2>
        <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
       <br/>
   </div>
 </div>
