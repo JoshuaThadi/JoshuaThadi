@@ -46,12 +46,11 @@
 
 <br/>
 
-<h2 align="center">⚡ 📊 GitHub Stats </h2>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:365px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=rose_pine&hide_border=false" alt="GitHub Streak" style="width:400px"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:300px"/>
+<div style="text-align: center;">
+    <h2>📊 GitHub Stats:</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=shadow_blue&hide_border=true" alt="GitHub Streak Stats"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <div align="center">
@@ -88,11 +87,10 @@
   </div>
   <div align="center"> 
   </div>
-    <h2>⭐ Top Contributed Repo & Random Dev Quote ✍️</h2>
+    <h2>⭐ Top Contributed Repo!</h2>
        <br/>
-      <img width="400px" src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=rose_pine&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-       <img width="195px" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" style="width:auto"/>
-       <br/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <br/>
   </div>
 </div>
 
@@ -111,3 +109,4 @@
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/snow.gif">
   <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/snow.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
+
