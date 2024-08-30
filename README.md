@@ -46,12 +46,12 @@
 
 <br/>
 
-<div align="center">
+<!--<div align="center">
     <h2>📊 GitHub Stats </h2>
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
     <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=shadow_blue&hide_border=true" alt="GitHub Streak Stats"><br/>
     <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
+</div>-->
 
 <div align="center">
   <h2>💻 Tech Stack:</h2>
