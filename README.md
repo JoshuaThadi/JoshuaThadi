@@ -89,7 +89,7 @@
   </div>
     <h2>⭐ Top Contributed Repo!</h2>
        <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
       <br/>
   </div>
 </div>
