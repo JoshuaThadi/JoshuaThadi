@@ -1,6 +1,6 @@
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout.gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout1 (11).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 <h1 align="left">
