@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MasterJudah+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+BEZEHEL+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>
 
 </h1>
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
