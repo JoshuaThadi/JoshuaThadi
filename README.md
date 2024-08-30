@@ -9,7 +9,7 @@
 </h1>
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 
-<h4 align="left">🌟 I Succesfully executed "Hello World!" program when I was 18. Began the Journey when I was 19 in Software Development in ASP.NET MVC, I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. Simply To make Money 💸. </h4>
+<h4 align="left">🌟 I Succesfully executed "Hello World!" program when I was 18. Began the Journey when I was 19 in Software Development in ASP.NET MVC, I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills jumping over and over in data structures and AI roadmap, also exploring the IT field to gain immense knowledge. Computer networking and automation is also an interest. Simply To make Money 💸. </h4>
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
@@ -21,7 +21,7 @@
 
 <div align="left">
   
-<h4> 🌱 I am currently working on and developing my programming skills. 🔭 I worked on .Net Framework and Hands on experience in Full Stack. 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python. ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation</h4>
+<h4> 🌱 I am currently working on and developing my programming skills. 🔭 I worked on .Net Framework and Hands on experience in Full Stack. 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python. ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development</h4>
 <h4> ✨ I only like perfection. <div align="right"> 
   <h3>🌟 Follow Me on:</h3>
   
