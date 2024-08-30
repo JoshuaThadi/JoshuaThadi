@@ -87,10 +87,10 @@
   </div>
   <div align="center"> 
   </div>
-    <h2>⭐ Top Contributed Repo!</h2>
+    <!--<h2>⭐ Top Contributed Repo!</h2>
        <br/>
       <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-      <br/>
+      <br/>-->
   </div>
 </div>
 
