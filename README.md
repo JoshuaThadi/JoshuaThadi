@@ -22,13 +22,9 @@
 <div align="left">
   
 <h4> 🌱 I am currently working on and developing my programming skills.</h4>
-
 <h4> 🔭 I worked on .Net Framework and Hands on experience in Full Stack.</h4>
-
 <h4> 💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</h4>
-
 <h4> ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</h4>
-
 <h4> ✨ I only like perfection. <div align="right"> 
   <h3>🌟 Follow Me on:</h3>
   
