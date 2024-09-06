@@ -12,14 +12,12 @@
 <h4 align="left">🌟 I Succesfully executed "Hello World!" program when I was 18. Began the Journey when I was 19 in Software Development in ASP.NET MVC, I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills jumping over and over in data structures and AI roadmap, also exploring the IT field to gain immense knowledge. Computer networking and automation is also an interest. Simply To make Money 💸. </h4>
 
  <h2>💫 About Me</h2>
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="320" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=JoshuaThadi&icon=2&color=6" alt="Visitor Count" /></a> </p>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<div align="left">
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="left">-->
+--> -__-
   
 <h4> 🌱 I am currently working on and developing my programming skills.</br>
  🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
