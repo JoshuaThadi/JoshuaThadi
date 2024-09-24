@@ -12,7 +12,7 @@
 <h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and learning programming for my career. I currently working on my programming skills, also exploring the IT field to gain immense knowledge. Block Chain development and automation is also an interest. Simply To make Money 💸. </h4>
 
  <h2>💫 About Me</h2>
-<img align="right" alt="coding-gif" width="320" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=JoshuaThadi&icon=2&color=6" alt="Visitor Count" /></a> </p>
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -20,8 +20,8 @@
 <h4> 🌱 I am currently working on and developing my programming skills.</br>
  🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
  💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</h4>
-<h4> ✨ I only like perfection. <div align="right"> 
+ ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
+ ✨ I only like perfection.</h4> <div align="left"> 
   <h3>🌟 Follow Me on:</h3>
 
   
