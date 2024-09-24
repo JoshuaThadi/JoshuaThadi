@@ -28,7 +28,7 @@
 
   <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
   <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-  <a href="https://masterjudah-notion-website.super.site/" target="_blank"><img width="99px" src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="NOTION"></a>
+  <a href="https://masterjudah-notion-website.super.site/" target="_blank"><img width="97px" src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="NOTION"></a>
   <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
 -->
 </div></h4>
