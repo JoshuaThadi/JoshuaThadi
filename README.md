@@ -22,7 +22,7 @@
  💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ I only like perfection.</h4> <div align="left"> 
-  <h3>🌟 Connect Me on:</h3>
+  <h3>🌟 Reach Me on:</h3>
 
   
 
