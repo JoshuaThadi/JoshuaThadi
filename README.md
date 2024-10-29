@@ -17,14 +17,11 @@
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=JoshuaThadi&icon=2&color=6" alt="Visitor Count" /></a> </p>
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
-<h4> 🌱 I am currently working on and developing my programming skills.</br>
-  
+<h4> 
+  🌱 I am currently working on and developing my programming skills.</br>
  🔭 I worked on .Net Framework and Hands on experience in Full Stack.</br>
- 
  💬 Ask me about Microsoft .Net framework, Full Stack Development, Python.</br>
- 
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
- 
  ✨ I only like perfection.</h4> <div align="left"> 
   <h3>🌟 Reach Me on:</h3>
 
