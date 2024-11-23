@@ -13,8 +13,6 @@
 
  <h2>💫 About Me</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
-<a href="https://leetcode.com/JoshuaThadi/"><img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGabbar-v7&logo=leetcode&logoColor=yellow" height="25"></a>
-
 
 <p align="left"> <a href="https://visitcount.itsvg.in"><img width="150px" src="https://visitcount.itsvg.in/api?id=JoshuaThadi&icon=2&color=6" alt="Visitor Count" /></a> </p>
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
