@@ -129,10 +129,9 @@
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
 
-  <p align="center">
-    <img 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFD700,FFFF00&height=80&section=footer"
-      width="100%" 
-    />
-  </p>
-</div>
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFA500,FFFF00&height=80&section=footer"
+    width="100%" 
+  />
+</p>
