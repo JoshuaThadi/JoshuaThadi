@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <a href="#">
     <img 
@@ -6,6 +7,7 @@
     />
   </a>
   <br>
+-->
 
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
@@ -131,9 +133,11 @@
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
+<!--
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
     width="100%" 
   />
 </p>
+-->
