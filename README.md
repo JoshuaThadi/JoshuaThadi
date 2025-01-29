@@ -9,6 +9,15 @@
   <br>
 -->
 
+<!--
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%" 
+  />
+</p>
+-->
+
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
   <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
@@ -134,11 +143,4 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
+
