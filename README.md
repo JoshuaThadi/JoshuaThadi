@@ -24,7 +24,7 @@
 
  <h2>💫 About Me</h2>
 
- <div align="center>
+ <div align="center">
 <a href="https://github.com/JoshuaThadi">
   <img width="150px" 
        src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=318CE7&style=for-the-badge" 
