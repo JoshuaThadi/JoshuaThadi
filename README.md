@@ -87,10 +87,9 @@
 <br>
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuathadi&theme=default&hide_border=false" alt="GitHub Streak">-->
 
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuathadi&theme=default&hide_border=false" alt="GitHub Streak">
-  <br/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/><br/>
