@@ -131,9 +131,9 @@
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/JoshuaThadi/Yeho.Net">
-        <img width=370 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Yeho.Net&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+        <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Yeho.Net&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Whatsapp-Automation">
-        <img width=370 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Whatsapp-Automation&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Whatsapp-Automation&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
