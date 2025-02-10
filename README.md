@@ -18,19 +18,28 @@
 </p>
 -->
 
+
+
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
   <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
+
+
 <!--<h1 align="left">
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
+
+<!-- Greeting -->
 </h1>
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 
 <h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
 
+
+
+<!-- about me -->
  <h2>💫 About Me</h2>
 
  <div align="center">
@@ -83,6 +92,9 @@
 </div>
 <br/>
 
+
+
+<!-- git stat-->
 <h2 align="center">⚡ Github Status</h2>
 <br>
 <div align="center">
@@ -95,6 +107,9 @@
 <br/><br/>
 
 
+
+
+<!-- lang-->
 <h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
 
 <br/>
@@ -108,23 +123,20 @@
 
 <br/>
 
-<!--<div align="center">
-    <h2>📊 GitHub Stats </h2>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaThadi&theme=shadow_blue&hide_border=true" alt="GitHub Streak Stats"><br/>
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>-->
 
 
 
-
+<!-- top repo and teck stack-->
 <div align="center">
   <h3>⭐️ Top Repositories</h3>
-  <a href="https://github.com/JoshuaThadi/Yeho.Net">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/JoshuaThadi/Yeho.Net">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Yeho.Net&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Whatsapp-Automation">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Whatsapp-Automation&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
+</div>
+
   
   <h2>💻 Tech Stack:</h2>
      <br/>
@@ -147,6 +159,12 @@
   </div>
   <div align="center"> 
   </div>
+
+
+
+
+
+  
     <!--<h2>⭐ Top Contributed Repo!</h2>
        <br/>
       <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
@@ -154,6 +172,10 @@
   </div>
 </div>
 
+
+
+
+<!-- support -->
 <h2 align="center">Support Me 💰 </h2>
 
 <p align="center">
@@ -167,6 +189,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1>-->
 
+
+
+<!-- ending-->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
