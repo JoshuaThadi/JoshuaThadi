@@ -86,8 +86,8 @@
 <h2 align="center">⚡ Github Status</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <img width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=joshuathadi&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak">
+  <img width=350 src="https://github-readme-stats.vercel.app/api?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <img width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=joshuathadi&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
