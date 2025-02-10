@@ -115,7 +115,17 @@
     <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaThadi&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>-->
 
+
+
+
 <div align="center">
+  <h3>⭐️ Top Repositories</h3>
+  <a href="https://github.com/JoshuaThadi/Yeho.Net">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Yeho.Net&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+    <a href="https://github.com/JoshuaThadi/Whatsapp-Automation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Whatsapp-Automation&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    </a>
+  
   <h2>💻 Tech Stack:</h2>
      <br/>
   <div align="center">
