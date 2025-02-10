@@ -131,9 +131,9 @@
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/JoshuaThadi/Yeho.Net">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Yeho.Net&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+        <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Yeho.Net&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Whatsapp-Automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Whatsapp-Automation&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Whatsapp-Automation&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
@@ -162,15 +162,10 @@
 
 
 
-
-
-  
-    <!--<h2>⭐ Top Contributed Repo!</h2>
+<!--<h2>⭐ Top Contributed Repo!</h2>
        <br/>
       <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
       <br/>-->
-  </div>
-</div>
 
 
 
