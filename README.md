@@ -92,7 +92,9 @@
 </div>
 <br/>
 
-
+<!--Experence and experencing
+<h2>🔆 Work'ed and Processed</h2>
+<img src="net.png" alt=".NET Logo" width="40" height="40" style="border-radius: 10px;">-->
 
 <!-- git stat-->
 <h2 align="center">⚡ Github Status</h2>
