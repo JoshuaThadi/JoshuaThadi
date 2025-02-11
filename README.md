@@ -44,7 +44,7 @@
 
  <div align="center">
 <a href="https://github.com/JoshuaThadi">
-  <img width="150px" 
+  <img width="162px" 
        src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=318CE7&style=for-the-badge" 
        alt="Profile views" /></a>
 <a href="https://api.github-star-counter.workers.dev/user/JoshuaThadi">
@@ -98,15 +98,12 @@
 <h2 align="center">⚡ Github Status</h2>
 <br>
 <div align="center">
-  <img width=350 src="https://github-readme-stats.vercel.app/api?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  
-<img width="365" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=catppuccin_mocha&rank_icon=github&border_radius=10"/>
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/><br/>
-
 
 
 
