@@ -99,7 +99,9 @@
 <br>
 <div align="center">
   <img width=350 src="https://github-readme-stats.vercel.app/api?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-<img width=365 src="https://github-readme-stats-joshuathadi.vercel.app/api?username=joshuathadi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+<img width="365" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=catppuccin_mocha&rank_icon=github&border_radius=10"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
