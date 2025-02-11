@@ -93,10 +93,10 @@
 <br/>
 
 <!--Experence and experencing-->
-<h2 align="center">🔆 Work'ed and Processed</h2>
+<h2 align="center">🔆 Work'ed and Progress'ed</h2>
 <div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/uom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hgs_rounded.png" alt="HGS Logo" width="350" style="border-radius: 10px;">
+    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/uom1_rounded.png" alt="UOM Logo" width="380" style="border-radius: 10px;">
+    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hgs_rounded.png" alt="HGS Logo" width="380" style="border-radius: 10px;">
 </div>
 
 
