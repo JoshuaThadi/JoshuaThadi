@@ -93,7 +93,7 @@
 <br/>
 
 <!--Experence and experencing-->
-<h2 align="center">🔆 Work'ed and Wor'king</h2>
+<h3 align="center">🔆 Work'ed and Wor'king</h3>
 <div align="center" style="display: flex; gap: 10px;">
     <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
     <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
@@ -102,7 +102,7 @@
 
 
 <!-- git stat-->
-<h2 align="center">⚡ Github Status</h2>
+<h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
 <img width="380" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
@@ -115,7 +115,7 @@
 
 
 <!-- lang-->
-<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
 <br/>
 
@@ -143,7 +143,7 @@
 </div>
 
   
-  <h2>💻 Tech Stack:</h2>
+  <h3>💻 Tech Stack:</h3>
      <br/>
   <div align="center">
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
@@ -167,7 +167,7 @@
 
 
 
-<!--<h2>⭐ Top Contributed Repo!</h2>
+<!--<h3>⭐ Top Contributed Repo!</h3>
        <br/>
       <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
       <br/>-->
@@ -176,7 +176,7 @@
 
 
 <!-- support -->
-<h2 align="center">Support Me 💰 </h2>
+<h3 align="center">Support Me 💰 </h3>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
