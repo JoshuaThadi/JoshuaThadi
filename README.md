@@ -38,10 +38,6 @@
 <h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
 
 
-
-<!-- about me -->
- <h2>💫 About Me</h2>
-
  <div align="center">
 <a href="https://github.com/JoshuaThadi">
   <img width="162px" 
@@ -63,6 +59,11 @@
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+
+
+<!-- about me -->
+ <h3 align="left">💫 About Me</h3>
+
 
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
