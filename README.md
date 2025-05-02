@@ -140,9 +140,9 @@
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/JoshuaThadi/Data-Science-Ecosystem">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science-Ecosystem&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+        <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science-Ecosystem&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
