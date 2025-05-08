@@ -110,7 +110,7 @@
 <div align="center">
 <img width="405" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
 
-  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/><br/>
