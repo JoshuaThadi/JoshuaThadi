@@ -74,16 +74,15 @@
  💬 Skills I acquire in programming languages such as Python, SQL.</br>
  ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
  ✨ I only like perfection.</h4> <div align="left"> 
-
-
-  
-
-  <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
-  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
 <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1CAC78?style=for-the-badge&logo=spotify&logoColor=ECEFF4" alt="Spotify Badge"></a>
 <a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-BF616A?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
+
+  <h3>🧲 Connect me :</h3>
+
+  <a href="mailto:anonymousprogra@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
     <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Bashfolio-505050?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=505050" alt="Portfolio Badge"></a>
 
