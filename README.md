@@ -35,7 +35,7 @@
 </h1>
 <h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
 
-<h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
+<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. I'm particularly focused on Artificial Intelligence and Machine Learning as my primary career path.</h4>
 
 
  <div align="center">
