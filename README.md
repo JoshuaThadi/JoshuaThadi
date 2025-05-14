@@ -108,9 +108,12 @@
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-<img width="405" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+<img width="435" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
 
-  <img width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
 </div>
 
 <br/><br/>
@@ -139,9 +142,9 @@
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
     </a>
 </div>
 
