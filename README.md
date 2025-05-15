@@ -139,12 +139,12 @@
 
 <!-- top repo and teck stack-->
 <div align="center">
-  <h3>⭐️ Top Repositories</h3>
+  <h3>⭐️ Best Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
     </a>
 </div>
 
