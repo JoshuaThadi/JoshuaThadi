@@ -79,7 +79,7 @@
 
 
   <h3>🧲 Connect me :</h3>
-<a href="mailto:mastdev.developer.1959@gmail.com">
+<a href="mailto:thadijoshua@gmail.com">
   <img width="60px" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" /></a> 
   
   <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
