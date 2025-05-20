@@ -46,16 +46,16 @@
 
 
 
-<!-- Total Stars 
+<!-- Total Stars -->
 <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&label=Stars&style=for-the-badge&color=bf616a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>-->
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&label=Stars&style=for-the-badge&color=bf616a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>
 
-<!-- Followers 
+<!-- Followers -->
 <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
        src="https://custom-icon-badges.herokuapp.com/github/followers/joshuathadi?logo=person-add&logoColor=white&label=Followers&style=for-the-badge&color=5e81ac" /></a>
-</div>-->
+</div>
 
 
     
@@ -110,9 +110,9 @@
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-<!--<img width="435" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">-->
-
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 </div>
@@ -142,8 +142,8 @@
 <div align="center">
   <h3>⭐️ Best Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <!--<a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>-->
+    <a href="https://github.com/JoshuaThadi/Data-Science">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
     </a>
