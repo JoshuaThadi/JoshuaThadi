@@ -79,7 +79,7 @@
 
   <h3>🧲 Connect me :</h3>
 <a href="mailto:thadijoshua@gmail.com">
-  <img width="60px" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" /></a> 
+  <img width="60px" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w480-h960" alt="Gmail" /></a> 
   
   <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
     <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
@@ -88,7 +88,7 @@
     <img width="58px" src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Portfolio Badge"></a>
 
 <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" alt="Spotify Badge"></a>
+  <img width="60px" src="https://cdn.jim-nielsen.com/ios/512/spotify-music-2015-07-30.png?rf=1024" alt="Spotify Badge"></a>
 
 <a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
   <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="YouTube Badge"></a>
