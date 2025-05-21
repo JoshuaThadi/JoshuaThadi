@@ -44,19 +44,18 @@
   <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
        alt="Profile Views Badge" /></a>
 
-
-
-<!-- Total Stars -->
+<!-- Total Stars with GitHub Logo -->
 <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&label=Stars&style=for-the-badge&color=bf616a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>
+       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
-<!-- Followers -->
+<!-- Followers with GitHub Logo -->
 <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
-       src="https://custom-icon-badges.herokuapp.com/github/followers/joshuathadi?logo=person-add&logoColor=white&label=Followers&style=for-the-badge&color=5e81ac" /></a>
-</div>
+       src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
 
+</div>
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
