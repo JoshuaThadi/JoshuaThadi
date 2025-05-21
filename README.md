@@ -88,7 +88,7 @@
     <img width="58px" src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Portfolio Badge"></a>
 
 <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-  <img width="60px" src="https://cdn.jim-nielsen.com/ios/512/spotify-music-2015-07-30.png?rf=1024" alt="Spotify Badge"></a>
+  <img width="60px" src="https://cdn.jim-nielsen.com/watchos/512/spotify-music-and-podcasts-2020-03-19.png?rf=1024" alt="Spotify Badge"></a>
 
 <a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
   <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="YouTube Badge"></a>
