@@ -73,7 +73,7 @@
   🌱 I am currently working on and developing my programming skills.</br>
  🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
  💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development.</br>
+ ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development, Software Development.</br>
  ✨ I only like perfection.</h4> <div align="left"> 
 
 
