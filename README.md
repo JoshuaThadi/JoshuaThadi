@@ -73,33 +73,33 @@
 </p>
 
 
-<h3>🧲 Connect me :</h3>
-<div align="left">
+<!--<h3>🧲 Connect me :</h3>-->
+<div align="center">
   <table>
     <tr>
       <td>
         <a href="mailto:thadijoshua@gmail.com">
-          <img width="60px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/light-grey-email.png" alt="Gmail" />
+          <img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/light-grey-email.png" alt="Gmail" />
         </a>
       </td>
       <td>
         <a href="https://www.linkedin.com/in/joshuathadi" target="_blank">
-          <img width="60px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/grey-linkedin.png" alt="LinkedIn" />
+          <img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/grey-linkedin.png" alt="LinkedIn" />
         </a>
       </td>
       <td>
         <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
-          <img width="60px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/grey-josh-logo.png" alt="Portfolio" />
+          <img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/grey-josh-logo.png" alt="Portfolio" />
         </a>
       </td>
       <td>
         <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-          <img width="60px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify.png" alt="Spotify" />
+          <img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify.png" alt="Spotify" />
         </a>
       </td>
       <td>
         <a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
-          <img width="60px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/YouTube_grey_icon_(2017).svg.png" alt="YouTube" />
+          <img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/YouTube_grey_icon_(2017).svg.png" alt="YouTube" />
         </a>
       </td>
     </tr>
