@@ -35,7 +35,7 @@
 </h1>
 <h2 align="center">❂ I am Joshua Thadi</h2>
 
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
+<h4 align="left">I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while diving into emerging technologies. Acquiring knowledge to adapt in diverse technological domains. Building a strong foundation in computer science fundamentals while exploring modern innovations. Passionate about continuous learning, adaptability, and applying knowledge to real-world challenges.</h4>
 
 
  <div align="center">
