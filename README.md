@@ -58,21 +58,19 @@
 </div>
 
     
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<!--👀 VIEWS / 🌐 WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <img align="right" alt="coding-gif" width="320" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
+<!-- About Me -->
+<h3 align="left">💫 About Me</h3>
 
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
-
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
-<h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in ASP.net MVC.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development, Software Development.</br>
- ✨ I only like perfection.</h4>
+<p>
+  🌱 I am currently working on and developing my programming skills.<br>
+  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
+  💬 Skills I acquire in programming languages such as Python, SQL.<br>
+  ⚡ Interest in AI/ML, Data Science, Automation, Blockchain Development, Software Development.<br>
+  ✨ I only like perfection.
+</p>
 
 
 <h3>🧲 Connect me :</h3>
