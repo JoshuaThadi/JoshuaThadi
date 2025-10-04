@@ -98,7 +98,7 @@
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
+        <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank">
           <img width="40px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/YouTube_grey_icon_(2017).svg.png" alt="YouTube" />
         </a>
       </td>
