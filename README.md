@@ -35,7 +35,7 @@
 </h1>
 <h2 align="center">❂ I am Joshua Thadi</h2>
 
-<h4 align="left">I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while diving into emerging technologies. Acquiring knowledge to adapt in diverse technological domains. Building a strong foundation in computer science fundamentals while exploring modern innovations. Passionate about continuous learning, adaptability, and applying knowledge to real-world challenges.</h4>
+<h4 align="left">I am currently pursuing a Bachelor's degree in Computer Science, with a strong focus on enhancing my programming skills and exploring diverse areas within the IT industry. My academic and personal journey is dedicated to building a solid foundation in computer science fundamentals while engaging with emerging technologies. I strive to acquire knowledge that enables adaptability across diverse technological domains, with a passion for continuous learning, innovation, and applying skills to solve real-world challenges.</h4>
 
 
  <div align="center">
@@ -68,7 +68,7 @@
   🌱 I am currently working on and developing my programming skills.<br>
   🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
   💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in AI/ML, Data Science, Automation, Blockchain Development, Software Development.<br>
+  ⚡ Interest in DS/AI/ML, Automation, Blockchain Development, etc.<br>
   ✨ I only like perfection.
 </p>
 
