@@ -79,7 +79,7 @@
     <tr>
       <td>
         <a href="mailto:thadijoshua@gmail.com">
-          <img width="60px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/grey-email-black.png" alt="Gmail" />
+          <img width="60px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/light-grey-email.png" alt="Gmail" />
         </a>
       </td>
       <td>
