@@ -77,12 +77,8 @@
  ✨ I only like perfection.</h4> <div align="left"> 
 
 
-  <!--<h3>🧲 Connect me :</h3>-->
-
-  <br>
-  <br>
-  
-<div align="center">
+<h3>🧲 Connect me :</h3>
+<div align="left">
   <table>
     <tr>
       <td>
