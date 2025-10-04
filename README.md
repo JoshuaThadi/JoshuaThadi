@@ -153,6 +153,10 @@
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=MachineLearning-and-DeepLearning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+    <a href="https://github.com/JoshuaThadi/Web-Development">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Web-Development&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+    <a href="https://github.com/JoshuaThadi/Digital-Products">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Digital-Products&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
 </div>
 
   
