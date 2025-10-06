@@ -59,7 +59,7 @@
 
     
 <!--👀 VIEWS / 🌐 WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="center" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
