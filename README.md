@@ -74,7 +74,7 @@
 
 
 <h3>🧲 Connect me :</h3>
-<div align="left">
+<div align="center">
   <a href="mailto:thadijoshua@gmail.com">
     <img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank">
