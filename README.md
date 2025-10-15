@@ -142,7 +142,7 @@
 
 
 <!-- top repo and teck stack-->
-<div align="left">
+<div align="right">
   <h3>⭐️ Best Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/JoshuaThadi/Data-Science">
@@ -157,6 +157,7 @@
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Web-Development&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/Digital-Products">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Digital-Products&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+  </div>
 </div>
 
   
