@@ -142,7 +142,7 @@
 
 
 <!-- top repo and teck stack-->
-<div align="right">
+<div align="center">
   <h3>⭐️ Best Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/JoshuaThadi/Data-Science">
