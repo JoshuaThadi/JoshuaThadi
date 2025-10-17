@@ -1,4 +1,4 @@
-<!--
+<!-- Header Wave (Commented Out)
 <div align="center">
   <a href="#">
     <img 
@@ -7,9 +7,10 @@
     />
   </a>
   <br>
+</div>
 -->
 
-<!--
+<!-- Footer Wave (Commented Out)
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
@@ -18,146 +19,93 @@
 </p>
 -->
 
-
-
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto" />
 </a>
-
-
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
 
 <!-- Greeting -->
-</h1>
 <h2 align="center">❂ I am Joshua Thadi</h2>
 
-<h4 align="left">✨ I am currently pursuing a Bachelor's degree in Computer Science, with a strong focus on enhancing my programming skills and exploring diverse areas within the IT industry. My academic and personal journey is dedicated to building a solid foundation in computer science fundamentals while engaging with emerging technologies. I strive to acquire knowledge that enables adaptability across diverse technological domains, with a passion for continuous learning, innovation, and applying skills to solve real-world challenges.</h4>
+<h4 align="left">
+✨ I am currently pursuing a Bachelor's degree in Computer Science, with a strong focus on enhancing my programming skills and exploring diverse areas within the IT industry. My academic and personal journey is dedicated to building a solid foundation in computer science fundamentals while engaging with emerging technologies. I strive to acquire knowledge that enables adaptability across diverse technological domains, with a passion for continuous learning, innovation, and applying skills to solve real-world challenges.
+</h4>
 
+<div align="center">
+  <!-- Profile Views -->
+  <a href="https://github.com/JoshuaThadi" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
- <div align="center">
-<!-- Profile Views -->
-<a href="https://github.com/JoshuaThadi" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
+  <!-- Total Stars -->
+  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
-<!-- Total Stars with GitHub Logo -->
-<a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-<!-- Followers with GitHub Logo -->
-<a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-</a>
-
+  <!-- Followers -->
+  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
-    
-<!--👀 VIEWS / 🌐 WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
-
 <p>
   🌱 I am currently working on and developing my programming skills.<br>
   🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
   💬 Skills I acquire in programming languages such as Python, SQL.<br>
   ⚡ Interest in DS/AI/ML, Automation, Blockchain Development, etc.<br>
-  <!--✨ I only like perfection.-->
 </p>
 
-
-<h3>🧲 Connect me :</h3>
+<h3>🧲 Connect with Me:</h3>
 <div align="center">
-  <a href="mailto:thadijoshua@gmail.com">
-    <img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank">
-    <img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
-    <img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-    <img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank">
-    <img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
+  <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
+  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="57px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
-
-
-
-  
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
-</div></h4>
-
-</div>
 <br/>
 
-<!--Experence and experencing
-<h3 align="center">🔆 Work'ed and Wor'king</h3>
-<div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
-</div>-->
-
-
-
-<!-- git stat-->
-<h3 align="center">🌱 Github Status</h3>
-
+<!-- GitHub Status -->
+<h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
-
-  
-  <!--<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">-->
-
-  
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <br/><br/>
 
-
-
-<!-- lang-->
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
-
+<!-- Languages & Tools -->
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <br/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
 <br/>
 
-
-
-
-<!-- top repo and teck stack-->
+<!-- Best Repositories -->
 <div align="center">
   <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+      <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />    </a>
+      <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
     <a href="https://github.com/JoshuaThadi/Generative-AI">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+      <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+  </div>
 </div>
 
-  
-  <h3>💻 Tech Stack:</h3>
-     <br/>
-  <div align="center">
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
+<!-- Tech Stack -->
+<h3 align="center">💻 Tech Stack</h3>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -170,43 +118,25 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  </div>
-  <div align="center"> 
-  </div>
+</div>
 
-
-
-<!--<h3>⭐ Top Contributed Repo!</h3>
-       <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-      <br/>-->
-
-
-
-
-<!-- support -->
-<h3 align="center">Support Me 💰 </h3>
-
+<!-- Support -->
+<h3 align="center">💰 Support Me</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
- <!-- <a href="https://buymeacoffee.com/joshuathadi">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
+  <a href="https://www.buymeacoffee.com/joshuathadi">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  </a>
 </p>
 
+<!-- Ending -->
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif">
+  <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
+</a>
 
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
-
-
-<!-- ending-->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
-<p>⚠️ This README is uniquely designed by <strong>JoshuaThadi</strong>.
-
-
+<p align="center">
+  ⚠️ This README is uniquely designed by <strong>Joshua Thadi</strong>.
+</p>
