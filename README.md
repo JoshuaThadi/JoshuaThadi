@@ -91,14 +91,20 @@
 <!-- Best Repositories -->
 <div align="center">
   <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <p align="center">
     <a href="https://github.com/JoshuaThadi/Data-Science">
-      <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-      <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Generative-AI">
-      <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-  </div>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Generative-AI&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=MachineLearning-and-DeepLearning&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/JoshuaThadi/Web-Development">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/JoshuaThadi/Digital-Products">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Digital-Products&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+  </p>
 </div>
 
 <!-- Tech Stack -->
