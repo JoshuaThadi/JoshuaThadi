@@ -92,17 +92,17 @@
   <h3>⭐️ Best Repositories</h3>
   <p align="center">
     <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Generative-AI">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Generative-AI&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Generative-AI&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/MachineLearning-and-DeepLearning">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=MachineLearning-and-DeepLearning&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=MachineLearning-and-DeepLearning&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Web-Development">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Digital-Products">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Digital-Products&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Digital-Products&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
   </p>
 </div>
 
