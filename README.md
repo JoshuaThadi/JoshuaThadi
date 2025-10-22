@@ -28,9 +28,6 @@
 <!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
 
 
-<p align="left">
-✨ <b>I’m Josh</b>, Phantom Programmer and Incognito Coder with a passion for design, drawing and Linux enthusiast, and innovation. I strive to create unique, meaningful, and tech-driven solutions that reflect creativity and precision.
-</p>
 
 <div align="center">
   <!-- Profile Views -->
