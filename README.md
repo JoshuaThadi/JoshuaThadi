@@ -31,8 +31,12 @@
 
 <div align="center">
   <!-- Profile Views -->
-  <a href="https://github.com/JoshuaThadi" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+  
+<!--  <a href="https://github.com/JoshuaThadi" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>-->
+  
+  <img src="https://img.shields.io/badge/Profile%20Views-12391-5e81ac?style=for-the-badge&logo=github" />
+
 
   <!-- Total Stars -->
   <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
@@ -68,7 +72,7 @@
 <!-- GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-  <!--<img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />-->
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
