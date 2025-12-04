@@ -90,7 +90,7 @@
 <br/>
 
 <!-- Best Repositories -->
-<div align="center">
+<!-- <div align="center">
   <h3>⭐️ Best Repositories</h3>
   <p align="center">
     <a href="https://github.com/JoshuaThadi/Data-Science">
@@ -102,7 +102,7 @@
     <a href="https://github.com/JoshuaThadi/Web-Development">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
   </p>
-</div>
+</div> -->
 
 
 <!-- Tech Stack -->
