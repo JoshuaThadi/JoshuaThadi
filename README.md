@@ -58,7 +58,7 @@
   ⚡ Interest in DS/AI/ML, Automation, Blockchain Development, etc.<br>
 </p>
 
-<h3>🧲 Known Me:</h3>
+<h3>🧲 Drop a line:</h3>
 <div align="center">
   <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
