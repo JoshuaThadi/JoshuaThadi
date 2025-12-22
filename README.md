@@ -21,7 +21,7 @@
 
 <!-- MasterHead -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img width="1000" height="500" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL-3.gif" alt="Fallout GIF"/>
+  <img width="1000" height="500" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL-home-grey.gif" alt="Fallout GIF"/>
 </a>
 
 <!-- Greeting -->
