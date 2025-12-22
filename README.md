@@ -99,8 +99,8 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
     <a href="https://github.com/JoshuaThadi/Computer-Science">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Computer-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Web-Development">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Web-Development&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+    <a href="https://github.com/JoshuaThadi/Minimalist">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Minimalist&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
   </p>
 </div>
 
