@@ -58,7 +58,7 @@
   ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
 </p>
 
-<!--<h3>🧲 Drop a line:</h3>-->
+<h3>🧲 Drop me a line:</h3>
 <div align="center">
   <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
@@ -70,7 +70,7 @@
 <br/>
 
 <!-- GitHub Status -->
-<h3>🌱 GitHub Status</h3>
+<h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
   <!--<img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />-->
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
