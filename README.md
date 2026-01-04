@@ -70,11 +70,11 @@
 <br/>
 
 <!-- GitHub Status -->
-<h3 align="center">🌱 GitHub Status</h3>
+<!--<h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-  <!--<img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />-->
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
-</div>
+</div>-->
 
 <br/>
 
@@ -90,7 +90,7 @@
 <br/>
 
 <!-- Best Repositories -->
-<div align="center">
+<!--<div align="center">
   <h3>⭐️ Best Repositories</h3>
   <p align="center">
     <a href="https://github.com/JoshuaThadi/Data-Science">
@@ -102,7 +102,7 @@
     <a href="https://github.com/JoshuaThadi/Minimalist">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Minimalist&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
   </p>
-</div>
+</div>-->
 
 
 <!-- Tech Stack -->
