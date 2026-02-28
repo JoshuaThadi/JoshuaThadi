@@ -91,23 +91,28 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
 </div>
 
+
+
 <br/>
 
 <!-- Best Repositories -->
-<!--<div align="center">
-  <h3>⭐️ Best Repositories</h3>
+<div align="center">
+  <h3>⭐️ Hobby Repositories</h3>
   <p align="center">
-    <a href="https://github.com/JoshuaThadi/Data-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Data-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Artificial-Intelligence&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Computer-Science">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Computer-Science&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Minimalist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Minimalist&theme=default&title_color=000000&icon_color=0366d6&text_color=333333&bg_color=ffffff" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
+  <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" alt="Wall-E-Desk"></a>
+<a href="https://github.com/JoshuaThadi/Void-OSE">
+  <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" alt="Void-OSE"></a>
+<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
+  <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" alt="IDE-Cosmo"></a>
+<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
+  <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" alt="Books-Of-Knowledge"></a>
+<a href="https://github.com/JoshuaThadi/PixelVault">
+  <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" alt="PixelVault"></a>
+<a href="https://github.com/JoshuaThadi/My-Projects">
+  <img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" alt="My-Projects"></a>
   </p>
-</div>-->
-
+</div>
 
 
 <!-- Tech Stack -->
