@@ -98,17 +98,17 @@
   <h3>⭐️ Hobby Repositories</h3>
   <p align="center">
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk">
-  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" alt="Wall-E-Desk"></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
 <a href="https://github.com/JoshuaThadi/Void-OSE">
-  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" alt="Void-OSE"></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
 <a href="https://github.com/JoshuaThadi/IDE-Cosmo">
-  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" alt="IDE-Cosmo"></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
 <a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
-  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" alt="Books-Of-Knowledge"></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
 <a href="https://github.com/JoshuaThadi/PixelVault">
-  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" alt="PixelVault"></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
 <a href="https://github.com/JoshuaThadi/My-Projects">
-  <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" alt="My-Projects"></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
   </p>
 </div>
 
@@ -127,6 +127,12 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="https://www.prisma.io" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
+<a href="https://supabase.com" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+<a href="https://clerk.com" target="_blank">
+    <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
 <a href="https://numpy.org/" target="_blank">
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org/" target="_blank">
@@ -147,12 +153,7 @@
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-<a href="https://www.prisma.io" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
-<a href="https://supabase.com" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-<a href="https://clerk.com" target="_blank">
-    <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
+
 
 
 </div>
