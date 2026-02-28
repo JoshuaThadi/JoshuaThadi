@@ -95,7 +95,7 @@
 
 <!-- Best Repositories -->
 <div align="center">
-  <h3>⭐️ Hobby Repositories</h3>
+  <h3>⭐️ Interested Repositories</h3>
   <p align="center">
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
