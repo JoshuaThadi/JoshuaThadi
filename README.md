@@ -61,8 +61,8 @@
   ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
 </p>
 
-<h3 align="right">🧲 Drop me a line:</h3>
-<div align="right">
+<h3 align="left">🧲 Drop me a line:</h3>
+<div align="left">
   <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
@@ -70,7 +70,6 @@
   <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
-<br>
 <br>
 
 <!-- Languages & Tools -->
