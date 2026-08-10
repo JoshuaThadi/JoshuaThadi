@@ -66,7 +66,7 @@
   <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://bezehel-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+  <a href="https://open.spotify.com/playlist/7yQna62e2SGG0R5B4mwNJv?si=57a02b3ae990483d" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
   <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
@@ -98,18 +98,12 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
-<a href="https://github.com/JoshuaThadi/Void-OSE">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
-<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
-<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
-<a href="https://github.com/JoshuaThadi/PixelVault">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
-<a href="https://github.com/JoshuaThadi/My-Projects">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk"><img src="https://gh-card.dev/repos/JoshuaThadi/Wall-E-Desk.svg"></a>
+<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge"><img src="https://gh-card.dev/repos/JoshuaThadi/Books-Of-Knowledge.svg"></a>
+<a href="https://github.com/JoshuaThadi/Void-OSE"><img src="https://gh-card.dev/repos/JoshuaThadi/Void-OSE.svg"></a>
+<a href="https://github.com/JoshuaThadi/IDE-Cosmo"><img src="https://gh-card.dev/repos/JoshuaThadi/IDE-Cosmo.svg"></a>
+<a href="https://github.com/JoshuaThadi/PixelVault"><img src="https://gh-card.dev/repos/JoshuaThadi/PixelVault.svg"></a>
+<a href="https://github.com/JoshuaThadi/My-Projects"><img src="https://gh-card.dev/repos/JoshuaThadi/My-Projects.svg"></a>
   </p>
 </div>
 
