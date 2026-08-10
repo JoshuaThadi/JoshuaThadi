@@ -98,12 +98,12 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk"><img src="https://gh-card.dev/repos/JoshuaThadi/Wall-E-Desk.svg"></a>
-<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge"><img src="https://gh-card.dev/repos/JoshuaThadi/Books-Of-Knowledge.svg"></a>
-<a href="https://github.com/JoshuaThadi/Void-OSE"><img src="https://gh-card.dev/repos/JoshuaThadi/Void-OSE.svg"></a>
-<a href="https://github.com/JoshuaThadi/IDE-Cosmo"><img src="https://gh-card.dev/repos/JoshuaThadi/IDE-Cosmo.svg"></a>
-<a href="https://github.com/JoshuaThadi/PixelVault"><img src="https://gh-card.dev/repos/JoshuaThadi/PixelVault.svg"></a>
-<a href="https://github.com/JoshuaThadi/My-Projects"><img src="https://gh-card.dev/repos/JoshuaThadi/My-Projects.svg"></a>
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk"><img src="https://gh-card.dev/repos/JoshuaThadi/Wall-E-Desk.svg" width="400"></a>
+<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge"><img src="https://gh-card.dev/repos/JoshuaThadi/Books-Of-Knowledge.svg" width="400"></a>
+<a href="https://github.com/JoshuaThadi/Void-OSE"><img src="https://gh-card.dev/repos/JoshuaThadi/Void-OSE.svg" width="400"></a>
+<a href="https://github.com/JoshuaThadi/IDE-Cosmo"><img src="https://gh-card.dev/repos/JoshuaThadi/IDE-Cosmo.svg" width="400"></a>
+<a href="https://github.com/JoshuaThadi/PixelVault"><img src="https://gh-card.dev/repos/JoshuaThadi/PixelVault.svg" width="400"></a>
+<a href="https://github.com/JoshuaThadi/My-Projects"><img src="https://gh-card.dev/repos/JoshuaThadi/My-Projects.svg" width="400"></a>
   </p>
 </div>
 
