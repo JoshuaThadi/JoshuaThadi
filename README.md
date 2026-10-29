@@ -100,7 +100,7 @@
   <p align="center">
     
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FWall-E-Desk&show_owner=true&theme=apprentice)](https://github.com/JoshuaThadi/Wall-E-Desk)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FBooks-Of-Knowledge&show_owner=true&theme=dark)](https://github.com/JoshuaThadi/Books-Of-Knowledge)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FBooks-Of-Knowledge&show_owner=true&theme=ayu-mirage)](https://github.com/JoshuaThadi/Books-Of-Knowledge)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FVoid-OSE&show_owner=true&theme=material-palenight)](https://github.com/JoshuaThadi/Void-OSE)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FIDE-Cosmo&show_owner=true&theme=nord)](https://github.com/JoshuaThadi/IDE-Cosmo)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FPixelVault&show_owner=true&theme=dracula)](https://github.com/JoshuaThadi/PixelVault)
