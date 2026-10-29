@@ -98,14 +98,17 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk"><img src="https://gh-card.dev/repos/JoshuaThadi/Wall-E-Desk.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge"><img src="https://gh-card.dev/repos/JoshuaThadi/Books-Of-Knowledge.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/Void-OSE"><img src="https://gh-card.dev/repos/JoshuaThadi/Void-OSE.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/IDE-Cosmo"><img src="https://gh-card.dev/repos/JoshuaThadi/IDE-Cosmo.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/PixelVault"><img src="https://gh-card.dev/repos/JoshuaThadi/PixelVault.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/My-Projects"><img src="https://gh-card.dev/repos/JoshuaThadi/My-Projects.svg" width="400"></a>
+    
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FWall-E-Desk&show_owner=true&theme=apprentice)](https://github.com/JoshuaThadi/Wall-E-Desk)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FBooks-Of-Knowledge&show_owner=true&theme=dark)](https://github.com/JoshuaThadi/Books-Of-Knowledge)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FVoid-OSE&show_owner=true&theme=material-palenight)](https://github.com/JoshuaThadi/Void-OSE)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FIDE-Cosmo&show_owner=true&theme=nord)](https://github.com/JoshuaThadi/IDE-Cosmo)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FPixelVault&show_owner=true&theme=dracula)](https://github.com/JoshuaThadi/PixelVault)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JoshuaThadi&repo=JoshuaThadi%2FMy-Projects&show_owner=true&theme=discord_old_blurple)](https://github.com/JoshuaThadi/My-Projects)
+
   </p>
 </div>
+
 
 
 <!-- Tech Stack -->
