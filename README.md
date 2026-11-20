@@ -56,7 +56,7 @@
 <h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently working on Data Science and Software Development.<br>
-  🔭 I worked on .NET Framework, PERN stack and have experience in Fullstack.<br>
+  🔭 I worked on .NET & PERN stack and have experience in Fullstack.<br>
   💬 Skills I acquire in programming languages such as Python, SQL.<br>
   ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
 </p>
